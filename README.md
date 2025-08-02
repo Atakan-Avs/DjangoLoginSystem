@@ -1,4 +1,4 @@
-# 🔐 Django Login System
+# 🔐 Django Login System 
 
 A simple and secure Django-based authentication system that includes user login, logout, and registration functionalities. This project demonstrates the fundamentals of session-based authentication using Django's built-in user model.
 
